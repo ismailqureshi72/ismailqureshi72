@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 Computer Science Student | 🚀 Full-Stack Web Dev Enthusiast</h3>
+  <h3>💻 Computer Science Student | 🚀 Exploring New Technologies</h3>
   <p>Exploring technologies, building solutions, and mastering Computer Science concepts with a focus on Web Development, DSA and Object-Oriented Programming.</p>
 </div>
 
