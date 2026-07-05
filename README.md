@@ -3,15 +3,18 @@
 </div>
 
 <div align="center">
-  <h3>💻 Computer Science Student | 🚀 Exploring New Technologies</h3>
-  <p>Exploring technologies, building solutions, and mastering Computer Science concepts with a focus on Web Development, DSA and Object-Oriented Programming.</p>
+  <h3>💻 Computer Science Student | Full Stack AI Engineer | AI/ML Enthusiast</h3>
+  <p>Exploring technologies, building solutions, and mastering Computer Science concepts with a focus on Full Stack Development, Deep Learning, and Artificial Intelligence.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ismailqureshi72">
+  <a href="https://github.com/ismailqureshi72" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ismail-qureshi72" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -19,18 +22,20 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **Computer Science**.
-- 💡 Passionate about **Full-Stack Development** (Next.js, React) and **OOP** primarily in `C++`.
-- 🌐 Currently diving deep into **Web Development** to build aesthetic yet productive, functional tech.
-- 🤔 Focused on writing clean, efficient, and well-structured code.
+- 🎓 Currently pursuing a Bachelor's degree in **Computer Science**, focusing on the intersection of modern software architectures and artificial intelligence.
+- 💡 Passionate about **Full Stack AI Engineering**—building intelligent systems and seamlessly integrating machine learning workflows into high-performance web applications.
+- 🛠️ Active developer in the **Next.js**, **React**, and **TypeScript** ecosystem, coupled with robust server-side engineering and database design.
+- 🧠 Deeply interested in **Object-Oriented Programming (OOP)**, core algorithms, and systems development primarily utilizing `C++` and `Python`.
+- 🌐 Driven to build functional, highly aesthetic, and responsive user interfaces that deliver intuitive experiences powered by data.
+- 🤔 Dedicated to writing clean, maintainable, and well-structured code following best engineering practices.
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,github,bash" alt="My Skills" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash,nodejs,express,vercel,npm,docker,linux" alt="My Skills" />
   </a>
 </div>
 
@@ -41,6 +46,18 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ismailqureshi72&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailqureshi72&theme=tokyonight" alt="GitHub Streak" width="400">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailqureshi72/ismailqureshi72/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailqureshi72/ismailqureshi72/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismailqureshi72/ismailqureshi72/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
