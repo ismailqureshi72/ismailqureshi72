@@ -35,10 +35,14 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash,nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash" alt="My Skills" />
   </a>
-  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px; border-radius: 22%;" />
-  <img src="assets/stitch.png" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px; border-radius: 22%;" />
+  <br />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" />
+  </a>
+  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="assets/stitch.png" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px;" />
 </div>
 
 ---
