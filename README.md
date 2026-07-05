@@ -38,8 +38,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash,nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" />
   </a>
   <img src="assets/opencode.svg" width="48" height="48" alt="OpenCode" style="vertical-align: middle; margin-left: 4px;" />
-  <img src="assets/antigravity.svg" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px;" />
-  <img src="assets/stitch.svg" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px; border-radius: 10px;" />
+  <img src="assets/stitch.png" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px; border-radius: 10px;" />
 </div>
 
 ---
