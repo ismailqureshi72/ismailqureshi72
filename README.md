@@ -37,31 +37,9 @@
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash,nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" />
   </a>
-  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" style="border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="OpenCode">
-    <rect width="48" height="48" rx="10" fill="#181825"/>
-    <path d="M16 18L10 24L16 30M32 18L38 24L32 30M21 32L27 16" stroke="#9D4EDD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  </svg>
-  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" style="border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Antigravity AI">
-    <rect width="48" height="48" rx="10" fill="#181825"/>
-    <circle cx="24" cy="20" r="8" fill="url(#gemini_grad)" />
-    <path d="M12 30C12 30 18 34 24 34C30 34 36 30 36 30" stroke="#7B2CBF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M16 26C16 26 20 29 24 29C28 29 32 26 32 26" stroke="#9D4EDD" stroke-width="2" stroke-linecap="round"/>
-    <path d="M24 12V6M24 6L21 9M24 6L27 9" stroke="#E0AAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <defs>
-      <linearGradient id="gemini_grad" x1="16" y1="12" x2="32" y2="28" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#E0AAFF"/>
-        <stop offset="0.5" stop-color="#9D4EDD"/>
-        <stop offset="1" stop-color="#3A0CA3"/>
-      </linearGradient>
-    </defs>
-  </svg>
-  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" style="border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Stitch MCP">
-    <rect width="48" height="48" rx="10" fill="#181825"/>
-    <path d="M34 14L18 30" stroke="#E0AAFF" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="32" cy="16" r="1.5" fill="#181825"/>
-    <path d="M14 34C14 26 22 22 24 24C26 26 26 34 34 34" stroke="#7B2CBF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M14 14C18 14 20 20 24 20" stroke="#9D4EDD" stroke-width="3" stroke-linecap="round"/>
-  </svg>
+  <img src="assets/opencode.svg" width="48" height="48" alt="OpenCode" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="assets/antigravity.svg" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="assets/stitch.svg" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px;" />
 </div>
 
 ---
