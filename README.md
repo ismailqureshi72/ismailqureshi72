@@ -39,6 +39,14 @@
   </a>
 </div>
 
+<div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=github&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Antigravity-7B2CBF?style=flat-square&logo=google-assistant&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Stitch_MCP-5A189A?style=flat-square&logo=graphql&logoColor=white" alt="Stitch MCP" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio Community" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+</div>
+
 ---
 
 ## 📊 Developer Metrics
