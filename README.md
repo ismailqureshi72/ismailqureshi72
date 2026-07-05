@@ -10,12 +10,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ismailqureshi72" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ismail-qureshi72" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/ismailqureshi72" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ismail-qureshi72" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <hr style="border: 1px solid #1e293b;">
@@ -34,13 +30,9 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash" alt="My Skills" />
-  </a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash" alt="My Skills" /></a>
   <br />
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" />
-  </a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" /></a>
   <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px;" />
   <img src="assets/stitch.png" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px;" />
 </div>
