@@ -42,7 +42,7 @@
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ismailqureshi72&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
+  <img src="https://github-stats-extended.vercel.app/api?username=ismailqureshi72&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailqureshi72&theme=tokyonight" alt="GitHub Streak" width="400">
 </div>
 
