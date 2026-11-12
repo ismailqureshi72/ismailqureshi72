@@ -30,11 +30,7 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nextjs,tailwind,postgres,mysql,vscode,git,github,bash" alt="My Skills" /></a>
-  <br />
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,vercel,npm,docker,linux,pycharm,visualstudio" alt="My Skills" style="vertical-align: middle;" /></a>
-  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity AI" style="vertical-align: middle; margin-left: 4px;" />
-  <img src="assets/stitch.png" width="48" height="48" alt="Stitch MCP" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="assets/cards/toolkit.svg" width="100%" alt="Toolkit: Languages, Frontend, Backend & Data, Tools, AI & MCP" />
 </div>
 
 ---
@@ -42,8 +38,8 @@
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ismailqureshi72&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailqureshi72&theme=tokyonight" alt="GitHub Streak" height="195">
+  <img src="https://github-stats-extended.vercel.app/api?username=ismailqureshi72&show_icons=true&theme=tokyonight&card_width=495" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailqureshi72&theme=tokyonight" alt="GitHub Streak" width="400">
 </div>
 
 ---
